@@ -1,0 +1,15 @@
+.clear-fl {
+    clear: left;
+}
+
+.clear-fr {
+    clear: right;
+}
+
+.card-border-l {
+    border-left: #fff 1rem solid;
+}
+
+article {
+    overflow: hidden;
+}
